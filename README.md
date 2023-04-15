@@ -3,9 +3,8 @@
 
 the date is too big to import them in github dont forget to import :
 
-for part a :
+for part A and dataviz : InputTest.csv,InputTrain.csv , StepOne_LabelTrain.csv ,  Sample_LabelTest.csv
 
-
-for part b :
-InputTest.csv, StepTwo_LabelTrain_TumbleDryer.csv ,InputTrain.csv ,StepTwo_LabelTrain_WashingMachine.csv,StepTwo_LabelTrain_Dishwasher.csv ,StepTwo_LabelTrain_Kettle.csv ,StepTwo_LabelTrain_Microwave.csv
+for part B :
+InputTest.csv, InputTrain.csv, StepTwo_LabelTrain_TumbleDryer.csv ,StepTwo_LabelTrain_WashingMachine.csv,StepTwo_LabelTrain_Dishwasher.csv ,StepTwo_LabelTrain_Kettle.csv ,StepTwo_LabelTrain_Microwave.csv
 
